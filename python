@@ -1,0 +1,5 @@
+
+#python 
+
+mylist=["karthick","harish","loki"]
+print(f"mmy list = {mylist}")
